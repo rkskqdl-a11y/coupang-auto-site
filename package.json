@@ -1,0 +1,11 @@
+{
+  "name": "coupang-auto-site",
+  "version": "0.0.0",
+  "private": true,
+  "main": "_worker.js",
+  "type": "module",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230518.0"
+  },
+  "compatibilityFlags": [ "nodejs_compat" ]
+}
