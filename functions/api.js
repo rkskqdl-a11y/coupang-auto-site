@@ -27,6 +27,6 @@ export async function onRequest(context) {
 
   // 모든 설정이 정상적으로 되었다면 이 메시지가 출력됩니다.
   return new Response("API 키 설정 성공! 이제 쿠팡파트너스 API 로직을 여기에 추가할 수 있습니다.", {
-    headers: { "Content-Type": "text/plain" },
+    headers: { "Content-Type": "text/plain;charset=utf-8 },
   });
 }
