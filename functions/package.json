@@ -1,0 +1,11 @@
+{
+  "name": "pages-functions-coupang-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "aws4fetch": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
