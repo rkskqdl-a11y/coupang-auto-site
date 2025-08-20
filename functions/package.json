@@ -1,0 +1,13 @@
+{
+  "name": "pages-functions",
+  "version": "1.0.0",
+  "description": "Cloudflare Pages Functions for Coupang Partners API",
+  "private": true,
+  "dependencies": {
+    "aws4-tiny": "^2.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
