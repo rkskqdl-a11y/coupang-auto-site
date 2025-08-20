@@ -1,0 +1,3 @@
+/*
+  X-KFC-Allow: aws4-tiny
+  X-KFC-Allow: @aws-sdk/credential-provider-node
